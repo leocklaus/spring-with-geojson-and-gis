@@ -33,6 +33,9 @@ On this project, the challenge was to work with GeoJSON and GIS.
 
 This project has 3 endpoints:
 
+![endpoint](https://github.com/user-attachments/assets/507feaef-b302-4822-8a4c-10f99c058e5a)
+
+
 ### Expected DTO Inputs:
 
 #### PartnerInput
